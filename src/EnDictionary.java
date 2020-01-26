@@ -1,10 +1,3 @@
-/*
-*
-* Copyright (c) 2015. Nexar Inc. - All Rights Reserved. Proprietary and confidential.
-*
-* Unauthorized copying of this file, via any medium is strictly prohibited.
-*
-*/
 
 import java.io.FileOutputStream;
 import java.io.IOException;
